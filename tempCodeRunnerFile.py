@@ -1,0 +1,1 @@
+cv2.imshow('Faces Found', img)
